@@ -22,7 +22,8 @@
 }
 #headSelectionBar{
   width: 800px;
-  margin: auto;
+  margin: 0 auto;
+    border-style: solid;
 }
 body{
   background-color: #ffe6ff;
