@@ -29,8 +29,15 @@ body{
   background-color: #ffe6ff;
 }
 #bigBody{
-  border: solid;
+
   width: 800;
   height: auto;
   margin: 0 auto;
+}
+#flexWindow{
+  width: 800px;
+  height: 0 auto;
+  border: solid;
+  margin: 0 auto;
+  height: 800px auto;
 }
