@@ -34,8 +34,8 @@
                     <ul class="nav navbar-nav">
                         <li><a href="book.php">Book</a></li>
                         <li><a href="shop.php">Shop</a></li>
-                        <li><a href="#">Gallery</a></li>
-                        <li><a href="#">Contact</a></li>
+                        <li><a href="gallery.php">Gallery</a></li>
+                        <li><a href="contact.php">Contact</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
