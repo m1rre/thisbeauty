@@ -25,13 +25,15 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
+                    <a href="index.php">
                     <img src="assets/img/logo.png" width="120px" >
+                  </a>
                 </div>
 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="#">Book</a></li>
-                        <li><a href="login.php">Shop</a></li>
+                        <li><a href="book.php">Book</a></li>
+                        <li><a href="shop.php">Shop</a></li>
                         <li><a href="#">Gallery</a></li>
                         <li><a href="#">Contact</a></li>
                     </ul>
