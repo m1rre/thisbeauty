@@ -37,7 +37,7 @@
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a>Logga in</a></li>
+                        <li><a href="login.php">Logga in</a></li>
                         <li><a href="#"><img src="assets/img/checkout.png" width="20x"></a></li>
 
                     </ul>
