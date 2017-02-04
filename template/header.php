@@ -2,6 +2,7 @@
 <html>
 
 <head>
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
     <title></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -13,8 +14,6 @@
 </head>
 
 <body>
-
-<div class="container">
     <div class="container">
         <nav class="navbar navbar-default" role="navigation">
             <div class="container-fluid">
@@ -32,10 +31,10 @@
 
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav">
-                        <li><a href="book.php">Book</a></li>
-                        <li><a href="shop.php">Shop</a></li>
-                        <li><a href="gallery.php">Gallery</a></li>
-                        <li><a href="contact.php">Contact</a></li>
+                        <li><a href="book.php">Boka tid</a></li>
+                        <li><a href="shop.php">Produkter</a></li>
+                        <li><a href="gallery.php">Bilder</a></li>
+                        <li><a href="contact.php">Kontakta oss</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">
@@ -46,6 +45,5 @@
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container-fluid -->
         </nav>
-    </div>
 </body>
 </html>
