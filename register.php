@@ -2,11 +2,10 @@
 
 <div class="row">
     <div class="col-sm-6 col-md-4 col-md-offset-4">
-        <h1>Skapa Konto</h1>
         <div class="account-wall">
 
             <form class="form-signin">
-
+                <label>Skapa Konto</label>
                 <input type="email" class="form-control" placeholder="Ange e-postadress" required autofocus>
                 <input type="password" class="form-control" placeholder="Ange Lösenord" required>
                 <input type="text" class="form-control" placeholder="Ange förnamn" required>

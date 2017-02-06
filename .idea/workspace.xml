@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3ee46e-1fce-44a9-b9c0-e916d4c26474" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/female.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/jquery/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/register.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/mypurchases.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/user/profile.php" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/about.txt" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/assets/img/test1.jpg" afterPath="$PROJECT_DIR$/assets/img/slidershow/test1.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/book.php" afterPath="$PROJECT_DIR$/book.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/login.php" afterPath="$PROJECT_DIR$/login.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/shop.php" afterPath="$PROJECT_DIR$/shop.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/footer.php" afterPath="$PROJECT_DIR$/template/footer.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/template/header.php" afterPath="$PROJECT_DIR$/template/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/register.php" afterPath="$PROJECT_DIR$/register.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -31,18 +17,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="cart.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/img/cart.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="513">
               <caret line="176" column="2" lean-forward="false" selection-start-line="176" selection-start-column="2" selection-end-line="176" selection-end-column="2" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="register.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/register.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -146,11 +135,11 @@
         <option value="$PROJECT_DIR$/template/footer.php" />
         <option value="$PROJECT_DIR$/shop.php" />
         <option value="$PROJECT_DIR$/book.php" />
-        <option value="$PROJECT_DIR$/register.php" />
         <option value="$PROJECT_DIR$/user/profile.php" />
         <option value="$PROJECT_DIR$/login.php" />
         <option value="$PROJECT_DIR$/template/header.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/register.php" />
       </list>
     </option>
   </component>
@@ -338,7 +327,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
-    <property name="SearchEverywhereHistoryKey" value="index&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/index.php&#10;header&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/template/header.php&#10;style&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/assets/css/style.css&#10;inde&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/index.html&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/template/footer.php" />
+    <property name="SearchEverywhereHistoryKey" value="register&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/register.php&#10;index&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/index.php&#10;header&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/template/header.php&#10;style&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/assets/css/style.css&#10;inde&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/index.html&#10;footer&#9;FILE&#9;file://C:/xampp/htdocs/thisbeauty/thisbeauty/template/footer.php" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -433,12 +422,12 @@
       <workItem from="1486221246684" duration="8555000" />
       <workItem from="1486238979806" duration="1961000" />
       <workItem from="1486392973793" duration="23000" />
-      <workItem from="1486393385764" duration="5283000" />
+      <workItem from="1486393385764" duration="5457000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31522000" />
+    <option name="totallyTimeSpent" value="31696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="8" y="0" width="1924" height="1050" extended-state="0" />
@@ -738,14 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/register.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/user/profile.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="660">
@@ -835,6 +816,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="513">
           <caret line="176" column="2" lean-forward="false" selection-start-line="176" selection-start-column="2" selection-end-line="176" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
       </provider>
