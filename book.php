@@ -24,9 +24,9 @@
             </div>
         </form>
 
-        <br>
+        <br>    
 
-        <input type="text" class="form-control" id="datepicker" size="30" placeholder="Välj datum"></p>
+        <div id="datepicker" placeholder="Välj datum"></p>
     </div>
     <div class="col-sm-5">
 
