@@ -14,19 +14,19 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
-                <img src="assets/img/test1.jpg" alt="Chania">
+                <img src="assets/img/slidershow/test1.jpg" alt="Chania">
             </div>
 
             <div class="item">
-                <img src="assets/img/test1.jpg" alt="Chania">
+                <img src="assets/img/slidershow/test1.jpg" alt="Chania">
             </div>
 
             <div class="item">
-                <img src="assets/img/test1.jpg" alt="Flower">
+                <img src="assets/img/slidershow/test1.jpg" alt="Flower">
             </div>
 
             <div class="item">
-                <img src="assets/img/test1.jpg" alt="Flower">
+                <img src="assets/img/slidershow/test1.jpg" alt="Flower">
             </div>
         </div>
 

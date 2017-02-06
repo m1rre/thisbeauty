@@ -138,6 +138,7 @@ body{
   border: 1px solid #E1E1E1;
   border-radius: 10px;
   background: #FFF;
+  margin-bottom: 15px;
 }
 
 .col-item .photo img
@@ -170,7 +171,11 @@ body{
 
 .price-text-color
 {
-  color: #219FD1;
+
+  padding: 3px;
+  border-radius: 5px;
+  
+  color: orange;
 }
 
 .col-item .info .rating

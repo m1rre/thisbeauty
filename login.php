@@ -6,8 +6,8 @@
                 <img class="profile-img" src="assets/img/profile.png" >
 
                 <form class="form-signin">
-                    <input type="text" class="form-control" placeholder="Email" required autofocus>
-                    <input type="password" class="form-control" placeholder="Password" required>
+                    <input type="text" class="form-control" placeholder="Ange e-postadress" required autofocus>
+                    <input type="password" class="form-control" placeholder="Ange Lösenord" required>
                     <button class="btn btn-lg btn-default btn-block" type="submit">
                         Logga in</button>
                     <label class="checkbox pull-left">
@@ -17,7 +17,7 @@
                 </form>
                 <br>
             </div>
-            <a href="#" class="text-center new-account">Skapa ett konto </a>
+            <a href="register.php" class="text-center new-account">Registrera konto </a>
         </div>
     </div>
 
