@@ -6,21 +6,38 @@
     } );
 </script>
 
-<p>Välj datum: <input type="text" class="form-control" id="datepicker" size="30" ></p>
+<div class="row">
+    <div class="col-sm-7">
+        <form>
+            <h3>Välj behandling</h3>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">Singelfransförlänging nytt sett 885kr</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">Singelfransförlänging påfyllning 550kr</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">Volymfransförlänging nytt sett 19050kr</label>
+            </div>
+            <div class="checkbox">
+                <label><input type="checkbox" value="">Volymfransförlänging nytt sett 650kr</label>
+            </div>
+        </form>
 
-<div class="dropdown">
-    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">
-        Behandling
-        <span class="caret"></span>
-    </button>
-    <ul class="dropdown-menu" aria-labelledby="dropdownMenu1">
-        <li><a href="#">Ödla</a></li>
-        <li><a href="#">Fisk</a></li>
-        <li><a href="#">Hajar</a></li>
-        <li role="separator" class="divider"></li>
-        <li><a href="#">Separated link</a></li>
-    </ul>
+        <br>
+
+        <input type="text" class="form-control" id="datepicker" size="30" placeholder="Välj datum"></p>
+    </div>
+    <div class="col-sm-5">
+
+    </div>
 </div>
+
+
+
+
+
+
 
 
 <?php require 'template/footer.php' ?>
