@@ -41,6 +41,7 @@
                         <li><a href="shop.php">Produkter</a></li>
                         <li><a href="gallery.php">Bilder</a></li>
                         <li><a href="contact.php">Kontakta oss</a></li>
+                        <li><a href="profile.php">dina sidor</a></li>
                     </ul>
 
                     <ul class="nav navbar-nav navbar-right">

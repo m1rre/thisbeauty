@@ -7,17 +7,17 @@
 
     <div class="col-lg-3 col-md-4 col-xs-6 thumb">
         <a class="thumbnail" href="#">
-            <img class="img-responsive" src="assets/img/1.jpg" alt="">
+            <img class="img-responsive" src="assets/img/mascara.jpg" alt="">
         </a>
     </div>
     <div class="col-lg-3 col-md-4 col-xs-6 thumb">
         <a class="thumbnail" href="#">
-            <img class="img-responsive" src="assets/img/2.jpg" alt="">
+            <img class="img-responsive" src="assets/img/makeupremover.jpg" alt="">
         </a>
     </div>
     <div class="col-lg-3 col-md-4 col-xs-6 thumb">
         <a class="thumbnail" href="#">
-            <img class="img-responsive" src="assets/img/3.jpg" alt="">
+            <img class="img-responsive" src="assets/img/lashsealer.jpg" alt="">
         </a>
     </div>
 
