@@ -66,11 +66,13 @@
 
                 <li><a href="contact.php">Kontakta oss</a></li>
 
-                <li><a href="profile.php">Profil</a></li>
+                <li><a href="maps.php">Hitta oss</a></li>
 
                 <li><a href="login.php">Logga in</a></li>
 
-                <li><a data-toggle="modal" data-target="#checkout">Kundvagn</a></li>
+                <li><a href="profile.php"><img src="assets/img/icons/profile.png" width="25px"></a></li>
+
+                <li><a data-toggle="modal" data-target="#checkout"><img src="assets/img/icons/cart.png" width="25px"></a></li>
 
             </ul>
 
@@ -79,6 +81,3 @@
     </div>
     <!-- /.container -->
 </nav>
-<?php require 'modals/pay.php' ?>
-<?php require 'modals/checkout.php' ?>
-<?php require 'modals/moreInfo.php' ?>
