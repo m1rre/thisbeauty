@@ -1,9 +1,10 @@
 <?php require 'template/header.php' ?>
 
 <div class="row">
+    <h3 class="beautyText">Bli en del av This Beauty</h3>
+    <hr>
     <div class="col-sm-6 col-md-4 col-md-offset-4">
         <div class="account-wall">
-
             <form class="form-signin">
                 <label>Skapa Konto</label>
                 <input type="email" class="form-control" placeholder="Ange e-postadress" required autofocus>
@@ -11,12 +12,9 @@
                 <input type="text" class="form-control" placeholder="Ange förnamn" required>
                 <input type="text" class="form-control" placeholder="Ange efternamn" required>
                 <input type="number" class="form-control" placeholder="Ange telefonnummer" required>
+                <hr>
                 <button class="btn btn-lg btn-default btn-block" type="submit">
                     Bli medlem</button>
-                <label class="checkbox pull-left">
-                    <input type="checkbox" value="remember-me">
-                    Kom ihåg mig
-                </label>
 
             </form>
             <br>

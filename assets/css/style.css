@@ -288,3 +288,53 @@ Hover the image
   color: #FFF;
   font-weight: bold;
 }
+
+.custom_nav .navbar.navbar-fixed-top .navbar-inner{
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.beautyText{
+  font-family: 'Dancing Script', cursive;
+  text-align: center;
+
+}
+.navbar-default {
+  background-color: #fffc;
+  border-color: #e7e7e7;
+  background-color: rgba(234, 234, 234, 0.51);
+}
+.navbar-brand{
+  margin-top: -5px;
+}
+.con{
+  background-color: red;
+  border: #ff3624 solid 5px;
+}
+
+.newProductTitle{
+  text-align: center;
+  font-family: 'Dancing Script', cursive;
+}
+.img-responsive{
+  margin: auto;
+}
+.btn-pink{
+  color: #fff;
+  background-color: #ff88f2;
+}
+.btn-pink:hover{
+  color: #fff;
+  background-color: #e178d6;
+}
+.col-info{
+
+}
+
+.modal-footer {
+
+  border-top-width: 0px;
+}
+.removeItemBtn {
+  float: right;
+
+}
