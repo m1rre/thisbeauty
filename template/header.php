@@ -64,7 +64,7 @@
 
                 <li><a href="gallery.php">Bilder</a></li>
 
-                <li><a href="contact.php">Kontakta oss</a></li>
+                <li><a href="contact.php">Kontakt</a></li>
 
                 <li><a href="maps.php">Hitta oss</a></li>
 
