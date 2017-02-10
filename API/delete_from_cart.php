@@ -1,10 +1,10 @@
 <?php
 session_start();
-require 'connect.php';
+require 'db.php';
 
 if (isset ($_GET['id'])) {
     $host = 'localhost';
-    $db = "thisbeauty";
+    $db = "thi's beauty";
     $user = 'root';
     $password = 'root';
     $charset = 'utf8';
