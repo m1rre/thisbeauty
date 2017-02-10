@@ -42,7 +42,7 @@
     })
 </script>
 
-<?php require 'modals/pay.php' ?>
+
 <?php require 'modals/checkout.php' ?>
 <?php require 'modals/moreInfo.php' ?>
 

@@ -77,7 +77,7 @@
                 </ul>
             </div>
             <div class="modal-footer">
-                <button type="button" class="btn btn-default" data-dismiss="modal" data-toggle="modal" data-target="#pay">Köp</button>
+                <a href="pay.php"><button type="button" class="btn btn-default" ">Köp</button></a>
             </div>
         </div>
 
