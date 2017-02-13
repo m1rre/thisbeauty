@@ -24,6 +24,9 @@
     <link href="assets/css/bootstrap-custom-checkbox.css" rel="stylesheet">
     <link href="assets/css/style.css" rel="stylesheet">
 
+    <!-- Custom JavaScript -->
+    <script src="assets/js/thisbeauty.js"></script>
+
     <!-- Custom Fonts -->
     <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="https://fonts.googleapis.com/css?family=Pacifico" rel="stylesheet">
