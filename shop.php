@@ -13,11 +13,11 @@
 
         <!--Looping though all the products-->
         <script>
-            displayAllProducts("products");
+            displayAllProducts("productsDiv");
         </script>
 
         <!--Products will be place inside this div-->
-        <div id="products"> </div>
+        <div id="productsDiv"> </div>
 
     </div>
 </div>
