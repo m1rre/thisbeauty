@@ -7,9 +7,9 @@ require("db.php");
 
 	if( isset($_GET['time']) ) {
 
-   		$date = $_GET['date'];
-		$time = $_GET['time'];
-		$type = $_GET['type'];
+   		$date = $_POST['date'];
+		$time = $_POST['time'];
+		$type = $_POST['type'];
 		$newtime = $date . " " . $time;
 
 //lägger till variablen newtime så den inkluderar både date och time, här kollar vi om det redan finns bokad tid.
