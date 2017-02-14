@@ -31,6 +31,7 @@
     });
 </script>
 
+<script type="text/javascript" src="js/validator.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="assets/bootstrap/js/bootstrap.min.js"></script>
@@ -42,7 +43,7 @@
     })
 </script>
 
-
+<?php require 'modals/pay.php' ?>
 <?php require 'modals/checkout.php' ?>
 <?php require 'modals/moreInfo.php' ?>
 
