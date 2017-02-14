@@ -3,7 +3,7 @@
 session_start();
 
 
-/*        $date = $_GET['date'];
+/*        $date = $_POST['date'];
 		$time = $_GET['time'];
 		$type = $_GET['type'];
 		$newtime = $date . " " . $time;*/
@@ -13,7 +13,7 @@ if (empty($_SESSION['timebooking'])) {
 $_SESSION['timebooking'] = array();
 }
 
-array_push($_SESSION['timebooking'], $_GET['date'], $_GET['type']);
+array_push($_SESSION['timebooking'], $_POST['date'], $_POST['type']);
 
 /*var_dump($_SESSION['timebooking']);*/
 
