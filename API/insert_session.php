@@ -4,8 +4,8 @@ session_start();
 
 
 /*        $date = $_POST['date'];
-		$time = $_GET['time'];
-		$type = $_GET['type'];
+		$time = $_POST['time'];
+		$type = $_POST['type'];
 		$newtime = $date . " " . $time;*/
 		
 
