@@ -2,7 +2,7 @@
 
 require 'db.php';
 
-
+//VISAR ALLA PRODUKTER SOM FINNS
 
 $stm_select = $pdo->prepare('SELECT `name`, `price`, `description`, `pic` FROM `products`');
 $stm_select->execute([]);
