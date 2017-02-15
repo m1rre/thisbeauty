@@ -1,7 +1,7 @@
 
 <?php
 
-require("db.php");
+require"db.php";
 
 //-------------------> KOLLA SÅ DATUM/TID INTE DUBBLERAS
 
