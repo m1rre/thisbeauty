@@ -1,5 +1,7 @@
 <?php
 
+// Uppdaterar personens adressuppgifter  
+
 require('db.php');
 include("auth.php");
 $email = $_SESSION['email'];
