@@ -1,4 +1,5 @@
 <?php
+//Information för koppling till databasen
 
 $host = 'localhost';
 $db = "zocomutbildning_se_db_1";
