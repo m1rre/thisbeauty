@@ -18,8 +18,8 @@
 		$rows = mysqli_num_rows($result);
         if($rows==1){
 			$_SESSION['email'] = $email;
-			echo json_encode(true);
-            //header("Location: mina-sidor.php"); // Skickar vidare användaren till mina sidor
+			//echo json_encode(true);
+            header("Location: index.php"); // Skickar vidare användaren till startsidan
             }else{
                 echo json_encode(false);
 				}
