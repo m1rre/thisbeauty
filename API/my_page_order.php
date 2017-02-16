@@ -5,7 +5,7 @@ require('db.php');
 
 $email = $_SESSION['email'];
 
-//Visar användarens köp
+//Visar användarens tidigare ordrar på mina sidor
 $stm_select = $pdo->prepare('SELECT * FROM `order` WHERE email = :email'); //Väljer den e-postadress som är inloggad
 $stm_select->execute(['email' => $email]);
 $resultat = array();
