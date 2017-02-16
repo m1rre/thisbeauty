@@ -1,7 +1,6 @@
 <?php
 
-// Uppdaterar personens adressuppgifter  
-
+// Uppdaterar användarens addressuppgifter (address, postnummer och postort) genom ett formulär på mina sidor
 require('db.php');
 include("auth.php");
 $email = $_SESSION['email'];
