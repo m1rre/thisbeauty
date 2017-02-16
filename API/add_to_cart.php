@@ -34,7 +34,6 @@ if (isset ($_GET['id'])) {
 
         echo json_encode($_SESSION['cart']);
 
-        echo "<hr>";
         
     }
 }   
