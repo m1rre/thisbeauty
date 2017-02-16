@@ -2,7 +2,7 @@
 ------------
 Skolprojekt
 ------------
-ThisBeuty är ett skolprojekt som är 3 veckor lång. 2 veckor lång för Font-End utvecklarna. 
+ThisBeuty är ett skolprojekt. En webbshop med ett bokningssystem för behandlingar.
 
 Mål:
 - Back-end: skapa REST API, säkerinlogging
