@@ -1,6 +1,6 @@
 
 <?php
-
+start_session();
 require"db.php";
 
 //-------------------> KOLLA SÅ DATUM/TID INTE DUBBLERAS
