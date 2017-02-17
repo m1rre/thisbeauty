@@ -26,15 +26,15 @@ require"db.php";
 //-------------------> LÄGG TILL NYA VÄRDEN I DATABASEN
 
   	if($cnt >= 1 ) {
-		// echo "tiden är redan bokad";
+		// "tiden är redan bokad";
 		echo json_encode(false);
 
 	} else {
-				$sql = "INSERT INTO `timebooking` (`bookingtime`, `bookingtype`) VALUES ('{$newtime}', '{$type}')";
-				$stm_insert = $pdo->prepare($sql);
-				$stm_insert->execute();
-				//echo "<p>Lade till bokning</p>";
-				echo json_encode(true);
+		$sql = "INSERT INTO `timebooking` (`bookingtime`, `bookingtype`) VALUES ('{$newtime}', '{$type}')";
+		$stm_insert = $pdo->prepare($sql);
+		$stm_insert->execute();
+		// "Lade till bokning";
+		echo json_encode(true);
 
 
 	 } 
